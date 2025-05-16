@@ -80,6 +80,16 @@ Using the on-board potentiometer, the ADC reads analog voltages in the approxima
 
 ---
 
+## 🎥 Demo Video
+
+
+
+https://github.com/user-attachments/assets/18e439ed-a508-451e-a2b7-f4c1124f3c4b
+
+
+
+---
+
 ## 👨‍💻 Authors
 - Marwan Ashraf
 - Kyrillos Hany
