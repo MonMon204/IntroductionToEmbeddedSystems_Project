@@ -1,7 +1,3 @@
-# IntroductionToEmbeddedSystems_Project
-This repository for the final submission for the final Project for CSE211s Introduction to Embedded Systems.
-
-
 # 🕒 Embedded Systems Final Project – CSE211s Spring 2025
 
 **Course**: CSE211s – Introduction to Embedded Systems  
